@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.aqua-gradient {
+  background: -webkit-linear-gradient(50deg,#2096ff,#05ffa3)!important;
+  background: -o-linear-gradient(50deg,#2096ff,#05ffa3)!important;
+  background: linear-gradient(40deg,#2096ff,#05ffa3)!important;
+}
+.btn.aqua-gradient {
+  -webkit-transition: .5s ease;
+  -o-transition: .5s ease;
+  transition: .5s ease;
+  color: #fff;
+  padding: 4px 15px;
+}
+.btn-rounded {
+  -webkit-border-radius: 10em;
+  border-radius: 10em;
+}

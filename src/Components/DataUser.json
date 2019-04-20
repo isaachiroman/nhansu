@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "Name":"Tiger Nixon",
+        "Email":"tiger@gmail.com",
+        "Tel":"0346967744",
+        "Permission":1
+    },
+    {
+        "id":2,
+        "Name":"Garrett Winters",
+        "Email":"Garrett@gmail.com",
+        "Tel":"0469146328",
+        "Permission":2
+    },
+    {
+        "id":3,
+        "Name":"Ashton Cox",
+        "Email":"Ashton@gmail.com",
+        "Tel":"0463218974",
+        "Permission":3
+    },
+    {
+        "id":4,
+        "Name":"Cedric Kelly",
+        "Email":"Cedric@gmail.com",
+        "Tel":"0963214786",
+        "Permission":1
+    },
+    {
+        "id":5,
+        "Name":"Airi Satou",
+        "Email":"Airi@gmail.com",
+        "Tel":"0124525134",
+        "Permission":2
+    },
+    {
+        "id":6,
+        "Name":"Brielle Williamson",
+        "Email":"Brielle@gmail.com",
+        "Tel":"0362951487",
+        "Permission":3
+    }
+]
