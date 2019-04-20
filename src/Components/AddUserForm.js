@@ -79,9 +79,8 @@ class AddUser extends Component {
                             </select>
                         </div>
                         <div>
-                        <button type="reset" onClick={(Name,Email,Tel,Permission)=>this.props.add(this.state.Name, this.state.Email, this.state.Tel, this.state.Permission)}  className="btn btn-success btn-circle mr-1 ml-1 mt-3" >   
-                        <i className="fas fa-check"></i>
-                        </button>
+                        <input type="reset" onClick={(Name,Email,Tel,Permission)=>this.props.add(this.state.Name, this.state.Email, this.state.Tel, this.state.Permission)}  className="btn btn-success btn-circle mr-1 ml-1 mt-3" />   
+                        
                        </div>
                         
                      </form>
