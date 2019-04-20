@@ -2,7 +2,7 @@
   "name": "usermanage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://isaachiroman.github.io/usermanagecontrol",
+  "homepage": "https://isaachiroman.github.io/nhansu",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
